@@ -3,7 +3,69 @@
         "network": "BSC",
         "coin": "ZCR",
         "contract": "0x1f01dc57c66c2f87d8eab9c625d335e9defe6912",
+        "pair": "0x304ae067f223c56bc273aa65631630d473718602"[
+    {
+        "network": "BSC",
+        "coin": "ZCR",
+        "contract": "0x1f01dc57c66c2f87d8eab9c625d335e9defe6912",
         "pair": "0x304ae067f223c56bc273aa65631630d473718602"
+    },
+    {
+        "network": "BSC",
+        "coin": "ZYON",
+        "contract": "0xa5594a2caf790c8eeb9037ab18d0da305bbdc8b6",
+        "pair": "0x633e35f0b4fb759f6325ac21ea0c6f9dfee95c78"
+    },
+    {
+        "network": "BSC",
+        "coin": "LQX",
+        "contract": "0x4495e673eE53c61CE79c35D5e299733639362aEc",
+        "pair": "0xb54cd95eea2b2f7adb4dccd5b5e1d6c4a6ffe472"
+    },
+    {
+        "network": "BSC",
+        "coin": "BTCT",
+        "contract": "0xd47ba9a00eb87b9e753c6651e402dad7d9f1c4ca",
+        "pair": "0x1f9c9947dcc19942e9126e95a5caa1eff844e732"
+    },
+    {
+        "network": "BSC",
+        "coin": "PEPS",
+        "contract": "0xf0ebeb79792190a1be089c522c82e724a4f8c8f1",
+        "pair": "0x0776079c0ee4246313aface0cd9a71bfefd32413"
+    },
+    {
+        "network": "BSC",
+        "coin": "BBK",
+        "contract": "0x9045b0eda6b6a556cf9b3d81c2db47411714f847",
+        "pair": "0xa1d2826f434faac8a222336f65ad5f8ee39da45b"
+    },
+    {
+        "network": "ETH",
+        "coin": "ZCR",
+        "contract": "0x72896d5478ad86b14a6d4f6e7441740d4970083d",
+        "pair": "0xe84f2bf5cf817a7b5d6fc075c95a869b0759b695"
+    },
+    {
+        "network": "ETH",
+        "coin": "BBK",
+        "contract": "0x79C0D3f68E19C85EE4662be1EC035ef366959B40",
+        "pair": "0xb4eb8954d39522cc4041d740df3055d72e87f351"
+    },
+    {
+        "network": "ETH",
+        "coin": "KSOC",
+        "contract": "0xa8d2f10CE4F30c6Fb48F9b857D40F1428eFBA6fb",
+        "pair": "0xa279d7174c28e50a00fa86f61332851ae7076217"
+    },
+    {
+        "network": "ETH",
+        "coin": "LQX",
+        "contract": "0x48f1d250c30b647873ae02ec36fc10821852f010",
+        "pair": "0x999c93003ad3e49aebd4a82261cec9c004306133"
+    }
+]
+
     },
     {
         "network": "BSC",
