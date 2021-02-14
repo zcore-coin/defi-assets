@@ -1,8 +1,10 @@
 [
     {
+        "id": 2,
         "enable": true,
         "network": "BSC",
-        "token": "ZCR",
+        "coin": "ZCR",
+        "pair": "WZCR-BNB",        
         "farm": "0x1f01dc57c66c2f87d8eab9c625d335e9defe6912"
     }
 ]
