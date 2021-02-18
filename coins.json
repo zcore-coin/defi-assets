@@ -52,11 +52,5 @@
         "coin": "BBK",
         "contract": "0x79C0D3f68E19C85EE4662be1EC035ef366959B40",
         "pair": "0xb4eb8954d39522cc4041d740df3055d72e87f351"
-    },
-    {
-        "network": "ETH",
-        "coin": "LQX",
-        "contract": "0x48f1d250c30b647873ae02ec36fc10821852f010",
-        "pair": "0x999c93003ad3e49aebd4a82261cec9c004306133"
     }
 ]
